@@ -8,6 +8,7 @@ public class Client {
 		int c = 11;
 		int d = 10;
 		int e = 10;
+		int f = 1;
 	}
 
 }
