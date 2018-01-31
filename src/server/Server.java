@@ -1,10 +1,10 @@
-package tcpip2;
+package server;
 
 public class Server {
 
 	public static void main(String[] args) {
-		int b = 1 ;
-		int c = 1;
+		ServerChat serverChat = null;
+		serverChat = new ServerChat(8888);
 	}
 
 }
